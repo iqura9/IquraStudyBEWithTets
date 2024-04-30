@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<NUnit>
+		<TestOutputXml>TestResults\parallel</TestOutputXml>
+		<NumberOfTestWorkers>4</NumberOfTestWorkers>
+	</NUnit>
+</RunSettings>
+
